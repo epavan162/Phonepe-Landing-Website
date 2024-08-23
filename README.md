@@ -1,6 +1,8 @@
 # PhonePe Landing Website Project
 
-Welcome to the PhonePe Landing Website project! This project aims to create a promotional webpage for PhonePe, showcasing its features and encouraging user engagement.
+Welcome to the PhonePe Landing Website project! Designed and coded the webpage layout using HTML and CSS. Utilized Bootstrap for a responsive and 
+modern design. Applied best practices in web development for clean, maintainable code. Ensured the site 
+looked great on various devices and screen sizes.
 
 ## Features
 - **Responsive Design:** Ensures the webpage adapts seamlessly to various screen sizes and devices.
